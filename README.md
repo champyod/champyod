@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MWIT Openhose 2024 and 2025**
 
-- ⚡ Fun fact **You know I'm in gen Wit**
+- ⚡ Fun fact **Have you ever known that I'm in gen Wit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
