@@ -1,15 +1,40 @@
-<h1 align="center">Hi 👋, I'm CCYod</h1>
-<h3 align="center">A Student in Mahidol Witthayanusorm School</h3>
+# Yodsakon Nawalertpanya
 
-- 🔭 I’m currently working on **MWIT Openhose 2024 and 2025**
+Mahidol Wittayanusorn School (MWIT) · Class of 2027 · Thailand
 
-- ⚡ Fun fact **Have you ever known that I'm in gen Wit**
+I am a high-school student in Thailand working on competitive programming tooling, Thai typesetting, and web tools for my school.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/champ.yod.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="champyod" height="30" width="40" /></a>
-<a href="https://instagram.com/champyod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="champyod" height="30" width="40" /></a>
-</p>
+## Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+C++, Rust, Python, TypeScript, Go, Typst, Shell, Linux, Next.js, Tailwind
+
+## Selected work
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [cms-learn](https://github.com/champyod/cms-learn) | Learning platform for competitive programming with a shared task bank, USACO and IOI tracks, an isolate-based judge, and a machine-verified publish gate for generated tasks | C++, TypeScript, Shell |
+| [typst-thai](https://github.com/champyod/typst-thai) | Thai line-break and justification work based on typst/typst | Rust, Typst |
+| [GOaT](https://github.com/champyod/GOaT) | Global OCR and translator | Python, Rust, TypeScript |
+| [mwit-iot-workshop](https://github.com/champyod/mwit-iot-workshop) | Progressive ESP32 IoT workshop with WPA2-Enterprise WiFi, DHT22 sensor, Google Sheets logging, and OTA updates | C++ |
+| [MWITypst-UNOF](https://github.com/champyod/MWITypst-UNOF) | Unofficial Mahidol Wittayanusorn School presentation theme for Touying / Typst | Typst |
+| [Line-Homeroom-Bot](https://github.com/champyod/Line-Homeroom-Bot) | Bot for sending the homeroom LINE badge | Python |
+
+## Honours and competitions
+
+- Gold Medal, Thailand Olympiad in Informatics (TOI) No. 20, 2024
+- Selected, IPST National Representative Selection Camp Round 1, Computer Science, 2024
+- Hack The Scammer CTF 2025 (NCSA), national cybersecurity competition, team lead
+- Bronze Medal, Genwit: New Generation Genius Season 2, 2025
+- Honorable Mention, Mathematical Association of Thailand competition, 2025
+
+## School work
+
+I built and maintain the MWIT Open House website, 2024–2026, which serves 10,000+ visitors per year.
+
+I run weekly POSN-style algorithm training for the Creative Algorithm Club, 2025–2026, for 20+ members across 3 semesters, and I maintain the grader system for POSN Computer Science Camp.
+
+I work on MWIT LINK, the student council hub.
+
+## Find me
+
+[Email](mailto:champyodsakon@gmail.com) · [LinkedIn](https://linkedin.com/in/champyod) · [GitHub](https://github.com/champyod) · [Instagram](https://instagram.com/champyod) · [Facebook](https://fb.com/champ.yod.9)
